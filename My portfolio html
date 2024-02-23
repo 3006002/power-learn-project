@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Portfolio</title>
+<ul>
+<li><a href="#home">Home</a></li>
+<li><a href="#About">About</a></li>
+<li><a href="#Projects">Projects</a></li>
+</head>
+<body>
+<h><b>Home</b></h>
+<p> Welcome to my portfolio. This is where you get to know me. Welcome to my world.</p>
+<h><b>About</b></h>
+<p>Here you'll get to know my achievements, hobbies, my academic journey, etc.</p>
+<h><b>Projects</b></h>
+<p> Some of the projects in progress and yet to be started are:</p>
+<ul>
+<li>Participating in community volunteer work</li>
+<li>Learning new skills</li>
+<li>Innovation of ideas</li>
+</body>
+</html>
